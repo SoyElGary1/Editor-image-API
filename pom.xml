@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.editor</groupId>
     <artifactId>image-editor-api</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>image-editor-api</name>
     <description>image-editor-api</description>
     <url/>
